@@ -4,6 +4,3 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = 'intro-to-microservices'
-include 'resource-service'
-include 'song-service'
